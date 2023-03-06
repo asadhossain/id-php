@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Asad</h1>
+    <h1>This is php code</h1>
 </body>
 </html>
